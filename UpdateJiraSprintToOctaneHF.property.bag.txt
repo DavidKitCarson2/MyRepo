@@ -1,0 +1,13 @@
+Octaneurl:http://bel-octane:8080
+CLIENT_ID:davidca_gmzpjxglzo37ka6v2yg61evy4
+CLIENT_SECRET:#15015469921013188153M 
+sharedSpace:2001
+theWorkspace:2006
+OctaneQuery:(!jira_id2_udf EQ ^null^);(!release EQ {null});phase EQ {id EQ ^phase.story.done^}
+jiraUDF:jira_id2_udf
+OctaneType:stories
+JIRAurl:http://10.133.12.165:8080
+JIRAlogintype:Basic
+JIRAuserpassword:davidcarson:12345
+Fix:Fix
+SummaryFile:D:/Micro Focus/Connect/Utilities/HelperFiles/OctaneSprintSummary.csv
