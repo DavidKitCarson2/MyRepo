@@ -1,0 +1,6 @@
+jiraURL:http://10.133.12.165:8080 
+logintype:Basic
+user_password:davidcarson:12345
+delimiter:,
+project:TEST
+outputReport:D:/Micro Focus/Connect/Utilities/HelperFiles/JiraProjectUsers.csv
